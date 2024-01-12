@@ -1,6 +1,6 @@
 ### Hi there 👋
-##🔭 I’m currently working in Sales Support at GitHub Japan!
-##⚡ Fun fact: I used to be a head hunter in Japan before finding my passion in operations and making the shift to GitHub.
+- 🔭 I’m currently working in Sales Support at GitHub Japan!
+- ⚡ Fun fact: I used to be a head hunter in Japan before finding my passion in operations and making the shift to GitHub.
 
 
 
